@@ -1,30 +1,26 @@
 package application.view;
 
-import java.io.IOException;
-
-import application.model.venta.Organizacion;
-import application.view.inicio.HomeController;
-import application.view.calculo.InfoFincaController;
-import application.view.calculo.InfoIngenioController;
-import application.view.calculo.InfoOrigenDestinoController;
+import application.Main;
+import application.view.calculo.*;
 import application.view.compra.*;
 import application.view.info.*;
-import application.view.calculo.CargarCamionController;
+import application.view.inicio.HomeController;
 import application.view.inicio.OrganizacionController;
 import application.view.sueldo.ConceptosSalarialesController;
 import application.view.sueldo.LiquidacionesController;
 import application.view.venta.AdministrarViajesController;
-import application.view.calculo.CargarAcopladoController;
 import application.view.venta.FacturacionController;
 import application.view.venta.VentaClienteController;
 import javafx.fxml.FXML;
-import application.Main;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.control.Accordion;
 import javafx.scene.control.TitledPane;
+import javafx.scene.image.Image;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
+
+import java.io.IOException;
 
 public class PrincipalController {
 
@@ -36,11 +32,14 @@ public class PrincipalController {
     private TitledPane inicioTitledPane;
 	public void setRootLayout(BorderPane root){
 		this.rootLayout = root;
+
 	}
 
 	public void setPrimaryStage(Stage primary){
 		this.primaryStage = primary;
-	}
+        this.primaryStage.getIcons().add(new Image("resources/logiserv-icon.png"));
+
+    }
 
     //---------------MODULO VENTAS------------------------//
 
