@@ -165,7 +165,7 @@ public class RegisterController implements Initializable {
         categoriaEmpleadoComboBox.setItems(categoriaEmpleadoRepository.view());
     }
     private void cargarLocalidades() {
-        int idTucuman = 24; //hardcode id tucuman
+        int idTucuman = 23; //hardcode id tucuman
         localidadComboBox.setItems(localidadRepository.view(idTucuman));
     }
 

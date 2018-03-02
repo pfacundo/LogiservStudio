@@ -158,10 +158,10 @@ public class EmpleadoEditDialogController {
 		String errorMessage = "";
 
 		if (nombreField.getText() == null || nombreField.getText().length() == 0) {
-			errorMessage += "No valid first name!\n"; 
+			errorMessage += "No se ingreso un nombre valido\n";
 		}
 		if (apellidoField.getText() == null || apellidoField.getText().length() == 0) {
-			errorMessage += "No valid last name!\n"; 
+			errorMessage += "No se ingreso un apellido valido\n";
 		}
 
 		if (errorMessage.length() == 0) {

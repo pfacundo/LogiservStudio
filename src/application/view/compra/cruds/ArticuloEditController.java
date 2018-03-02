@@ -107,13 +107,13 @@ public class ArticuloEditController implements Initializable{
     public boolean isInputValid() {
         String errorMessage = "";
         if (marcaTextField.getText() == null || marcaTextField.getText().length() == 0) {
-            errorMessage += "No valid brand name!\n";
+            errorMessage += "No se ingreso una marca valida\n";
         }
         if (modeloTextField.getText() == null || modeloTextField.getText().length() == 0) {
-            errorMessage += "No valid model name!\n";
+            errorMessage += "No se ingreso un modelo valido\n";
         }
         if (descripcionTextArea.getText() == null || descripcionTextArea.getText().length() == 0) {
-            errorMessage += "No valid description!\n";
+            errorMessage += "No se ingreso una descripcion valida\n";
         }
        /* if (categoriaComboBox.is == null || modeloTextField.getText().length() == 0) {
             errorMessage += "No valid model name!\n";

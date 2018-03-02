@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="ad24a087-34e9-4c0a-89a3-9d660d897332" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/application/view/sueldo/cruds/LiquidacionSueldoController.java" afterPath="$PROJECT_DIR$/src/application/view/sueldo/cruds/LiquidacionSueldoController.java" />
+      <change beforePath="$PROJECT_DIR$/src/application/view/Login.fxml" afterPath="$PROJECT_DIR$/src/application/view/Login.fxml" />
+      <change beforePath="$PROJECT_DIR$/src/application/view/Register.fxml" afterPath="$PROJECT_DIR$/src/application/view/Register.fxml" />
+      <change beforePath="$PROJECT_DIR$/src/application/view/RegisterController.java" afterPath="$PROJECT_DIR$/src/application/view/RegisterController.java" />
+      <change beforePath="$PROJECT_DIR$/src/application/view/compra/cruds/ArticuloEditController.java" afterPath="$PROJECT_DIR$/src/application/view/compra/cruds/ArticuloEditController.java" />
+      <change beforePath="$PROJECT_DIR$/src/application/view/compra/cruds/CategoriaArticuloEditController.java" afterPath="$PROJECT_DIR$/src/application/view/compra/cruds/CategoriaArticuloEditController.java" />
+      <change beforePath="$PROJECT_DIR$/src/application/view/info/cruds/CategoriaEmpleadoEditController.java" afterPath="$PROJECT_DIR$/src/application/view/info/cruds/CategoriaEmpleadoEditController.java" />
+      <change beforePath="$PROJECT_DIR$/src/application/view/info/cruds/EmpleadoEditDialogController.java" afterPath="$PROJECT_DIR$/src/application/view/info/cruds/EmpleadoEditDialogController.java" />
+      <change beforePath="$PROJECT_DIR$/src/application/view/info/cruds/UsuarioEditDialogController.java" afterPath="$PROJECT_DIR$/src/application/view/info/cruds/UsuarioEditDialogController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,66 +35,72 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArticuloRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/repository/compra/ArticuloRepository.java">
+      <file leaf-file-name="RegisterController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/application/view/RegisterController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+            <state relative-caret-position="474">
+              <caret line="168" column="72" lean-forward="true" selection-start-line="168" selection-start-column="72" selection-end-line="168" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FacturacionController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/view/venta/FacturacionController.java">
+      <file leaf-file-name="ArticuloEditController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/application/view/compra/cruds/ArticuloEditController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+            <state relative-caret-position="594">
+              <caret line="124" column="25" lean-forward="true" selection-start-line="124" selection-start-column="25" selection-end-line="124" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LiquidacionesController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/view/sueldo/LiquidacionesController.java">
+      <file leaf-file-name="CategoriaArticuloEditController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/application/view/compra/cruds/CategoriaArticuloEditController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="137" column="31" lean-forward="false" selection-start-line="137" selection-start-column="31" selection-end-line="137" selection-end-column="31" />
+            <state relative-caret-position="162">
+              <caret line="68" column="63" lean-forward="false" selection-start-line="68" selection-start-column="63" selection-end-line="68" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LiquidacionSueldoController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/application/view/sueldo/cruds/LiquidacionSueldoController.java">
+      <file leaf-file-name="CategoriaEmpleadoEditController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/application/view/info/cruds/CategoriaEmpleadoEditController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="412" column="2" lean-forward="false" selection-start-line="412" selection-start-column="2" selection-end-line="412" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Alerta.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/comunes/Alerta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="459">
+              <caret line="67" column="67" lean-forward="false" selection-start-line="67" selection-start-column="67" selection-end-line="67" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClienteEditController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/application/view/venta/cruds/ClienteEditController.java">
+      <file leaf-file-name="EmpleadoEditDialogController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/application/view/info/cruds/EmpleadoEditDialogController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1026">
-              <caret line="67" column="9" lean-forward="false" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="596">
+              <caret line="195" column="1" lean-forward="true" selection-start-line="195" selection-start-column="1" selection-end-line="195" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FamiliarEditController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/application/view/info/cruds/FamiliarEditController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2808">
+              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsuarioEditDialogController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/application/view/info/cruds/UsuarioEditDialogController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="104" column="64" lean-forward="false" selection-start-line="104" selection-start-column="64" selection-end-line="104" selection-end-column="64" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -115,6 +128,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="facundo peralta &lt;facundo_huira@hotmail.com&gt;" />
         <option value="Isaias &lt;isamed92@gmail.com&gt;" />
         <option value="isaias &lt;isamed92@gmail.com&gt;" />
         <option value="isaias" />
@@ -127,8 +141,8 @@
       </map>
     </option>
     <push-targets>
-      <push-target-info target-remote="origin2" target-branch="master" repo="$PROJECT_DIR$" source="master" />
       <push-target-info target-remote="origin2" target-branch="isaias" repo="$PROJECT_DIR$" source="isaias" />
+      <push-target-info target-remote="yo" target-branch="validacion" repo="$PROJECT_DIR$" source="master" />
     </push-targets>
   </component>
   <component name="GradleLocalSettings">
@@ -139,10 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/application/model/info/Familiar/Familiar.java" />
-        <option value="$PROJECT_DIR$/src/application/view/compra/CompraComprasController.java" />
-        <option value="$PROJECT_DIR$/src/application/model/info/Familiar.java" />
-        <option value="$PROJECT_DIR$/src/application/repository/info/FamiliarRepository.java" />
         <option value="$PROJECT_DIR$/src/application/view/info/GrupoFamiliarController.java" />
         <option value="$PROJECT_DIR$/src/application/view/info/cruds/FamiliarEditController.java" />
         <option value="$PROJECT_DIR$/src/application/view/info/cruds/FamiliarEdit.fxml" />
@@ -150,7 +160,6 @@
         <option value="$PROJECT_DIR$/src/application/view/venta/VentaClienteController.java" />
         <option value="$PROJECT_DIR$/src/application/repository/venta/ClienteRepository.java" />
         <option value="$PROJECT_DIR$/src/application/model/info/Empleado.java" />
-        <option value="$PROJECT_DIR$/src/application/view/info/cruds/EmpleadoEditDialogController.java" />
         <option value="$PROJECT_DIR$/src/application/view/info/AdministrarEmpleadosController.java" />
         <option value="$PROJECT_DIR$/src/application/view/info/DesempleadosController.java" />
         <option value="$PROJECT_DIR$/src/application/view/inicio/HomeController.java" />
@@ -168,7 +177,6 @@
         <option value="$PROJECT_DIR$/src/application/view/calculo/cruds/IngenioEditController.java" />
         <option value="$PROJECT_DIR$/src/application/view/calculo/cruds/FincaEditController.java" />
         <option value="$PROJECT_DIR$/src/application/reports/AbstractJasperReports.java" />
-        <option value="$PROJECT_DIR$/src/application/view/RegisterController.java" />
         <option value="$PROJECT_DIR$/src/application/repository/compra/FacturaCompraRepository.java" />
         <option value="$PROJECT_DIR$/src/application/model/sueldo/ConceptoSueldo.java" />
         <option value="$PROJECT_DIR$/src/application/model/sueldo/ConceptoCalculado.java" />
@@ -190,6 +198,12 @@
         <option value="$PROJECT_DIR$/src/application/reports/ReciboSueldo.jrxml" />
         <option value="$PROJECT_DIR$/src/application/reports/DetalleLiquidacion.jrxml" />
         <option value="$PROJECT_DIR$/src/application/view/sueldo/cruds/LiquidacionSueldoController.java" />
+        <option value="$PROJECT_DIR$/src/application/view/RegisterController.java" />
+        <option value="$PROJECT_DIR$/src/application/view/compra/cruds/ArticuloEditController.java" />
+        <option value="$PROJECT_DIR$/src/application/view/compra/cruds/CategoriaArticuloEditController.java" />
+        <option value="$PROJECT_DIR$/src/application/view/info/cruds/CategoriaEmpleadoEditController.java" />
+        <option value="$PROJECT_DIR$/src/application/view/info/cruds/EmpleadoEditDialogController.java" />
+        <option value="$PROJECT_DIR$/src/application/view/info/cruds/UsuarioEditDialogController.java" />
       </list>
     </option>
   </component>
@@ -278,14 +292,14 @@
               <item name="LogiservStudio" type="616d4139:PackageViewModuleNode" />
               <item name="application" type="1f31426a:PackageElementNode" />
               <item name="view" type="1f31426a:PackageElementNode" />
-              <item name="venta" type="1f31426a:PackageElementNode" />
+              <item name="info" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="LogiservStudio" type="58d84e3e:PackageViewProjectNode" />
               <item name="LogiservStudio" type="616d4139:PackageViewModuleNode" />
               <item name="application" type="1f31426a:PackageElementNode" />
               <item name="view" type="1f31426a:PackageElementNode" />
-              <item name="venta" type="1f31426a:PackageElementNode" />
+              <item name="info" type="1f31426a:PackageElementNode" />
               <item name="cruds" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
@@ -673,7 +687,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519934696166</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Validacion de fechas en la liquidacion">
+      <created>1519963233990</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1519963233990</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TodoView">
@@ -745,7 +766,8 @@
     <MESSAGE value="viajes sin hardcode y funcional" />
     <MESSAGE value="reportes de recibo de sueldos por empleado" />
     <MESSAGE value="commit luego de hacer pull de isa de develop" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit luego de hacer pull de isa de develop" />
+    <MESSAGE value="Validacion de fechas en la liquidacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Validacion de fechas en la liquidacion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -758,33 +780,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/javafx-src.zip!/com/sun/javafx/application/PlatformImpl.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/javafx-src.zip!/javafx/application/Platform.java" />
-    <entry file="file://$PROJECT_DIR$/src/application/repository/venta/OrganizacionRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="61" column="46" lean-forward="false" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/reports/VisorPDF.fxml" />
-    <entry file="file://$PROJECT_DIR$/src/application/view/calculo/CargarAcopladoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1565">
-          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/view/calculo/InfoIngenio.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/application/view/Register.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
@@ -831,13 +826,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/application/repository/sueldo/LiquidacionesRepository.java" />
-    <entry file="file://$PROJECT_DIR$/src/application/view/RegisterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/application/repository/compra/DetalleCompraRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1036,42 +1024,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/repository/calculo/FincaRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/repository/compra/ArticuloRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/view/venta/FacturacionController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/application/repository/venta/FacturaVentaRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/view/sueldo/LiquidacionesController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="137" column="31" lean-forward="false" selection-start-line="137" selection-start-column="31" selection-end-line="137" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1095,14 +1051,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/comunes/Alerta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/application/view/venta/cruds/ClienteEditController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1026">
@@ -1113,6 +1061,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/comunes/Alerta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/application/view/sueldo/cruds/LiquidacionSueldoController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
@@ -1120,6 +1076,94 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/view/sueldo/LiquidacionesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="137" column="31" lean-forward="false" selection-start-line="137" selection-start-column="31" selection-end-line="137" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/view/venta/FacturacionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="101" column="0" lean-forward="false" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/repository/compra/ArticuloRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/repository/calculo/FincaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/view/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="168" column="72" lean-forward="true" selection-start-line="168" selection-start-column="72" selection-end-line="168" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/view/compra/cruds/ArticuloEditController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="124" column="25" lean-forward="true" selection-start-line="124" selection-start-column="25" selection-end-line="124" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/view/compra/cruds/CategoriaArticuloEditController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="68" column="63" lean-forward="false" selection-start-line="68" selection-start-column="63" selection-end-line="68" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/view/info/cruds/CategoriaEmpleadoEditController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="67" column="67" lean-forward="false" selection-start-line="67" selection-start-column="67" selection-end-line="67" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/view/info/cruds/EmpleadoEditDialogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="195" column="1" lean-forward="true" selection-start-line="195" selection-start-column="1" selection-end-line="195" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/view/info/cruds/FamiliarEditController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2808">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/view/info/cruds/UsuarioEditDialogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="104" column="64" lean-forward="false" selection-start-line="104" selection-start-column="64" selection-end-line="104" selection-end-column="64" />
+          <folding />
         </state>
       </provider>
     </entry>

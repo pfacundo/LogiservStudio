@@ -99,10 +99,10 @@ UsuarioRepository usuarioRepository = new UsuarioRepository();
 		String errorMessage = "";
 
 		if (usuarioField.getText() == null || usuarioField.getText().length() == 0) {
-			errorMessage += "No valid user name!\n"; 
+			errorMessage += "No se ingreso un usuario valido\n";
 		}
 		if (passwordField.getText() == null || passwordField.getText().length() == 0) {
-			errorMessage += "No valid password!\n"; 
+			errorMessage += "No se ingreso una contraseña valida\n";
 		}
 
 		if (errorMessage.length() == 0) {
